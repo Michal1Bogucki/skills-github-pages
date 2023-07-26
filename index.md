@@ -1,6 +1,6 @@
 ---
-title: Welcome to my blog
+title: The stuff 
 ---
 
-test 
-test 
+test 1 
+test 2
